@@ -1,6 +1,7 @@
 # Multimodality and-Stacking Ensemble Models in Demand Prediction
 ## Paper
-For full details, please refer to our project report: [Multimodality and-Stacking Ensemble Models in Demand Prediction.pdf](paper/15095_ML_ProjectReport.pdf).
+For full details, please refer to our project report: 
+[ProjectReport.pdf](https://github.com/user-attachments/files/19061697/15095_ML_ProjectReport.pdf)
 
 ## Project Overview
 This project explores the use of multi-modal machine learning models to predict the likelihood of a successful deal on Avito, Russia's largest classified advertisement platform. By integrating tabular, text, and image data, we demonstrate that ensemble learning and deep feature extraction significantly improve predictive performance.
