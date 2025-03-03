@@ -13,5 +13,4 @@ This project explores the use of multi-modal machine learning models to predict 
 For full details, please refer to our project report: [15095_ML_ProjectReport.pdf](paper/15095_ML_ProjectReport.pdf).
 
 ## Contributors
-- **Ellie Yang** (ellie_y@mit.edu)
-- **Steve Zhou** (stevez02@mit.edu)
+- **Ellie Yang**, **Steve Zhou** 
